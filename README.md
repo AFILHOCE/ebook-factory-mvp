@@ -67,3 +67,4 @@ Adapte para seu provedor (Asaas/Mercado Pago/etc.):
 - trigger deploy
 
 Pronto: seu produto deixa de ser “IA que escreve” e vira “sistema de criação publicável”.
+teste deploy
