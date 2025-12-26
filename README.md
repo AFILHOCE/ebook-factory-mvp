@@ -64,5 +64,6 @@ Adapte para seu provedor (Asaas/Mercado Pago/etc.):
   - objetivo do capítulo, “não repetir”, exemplo base
 - Capítulo escrito com estrutura fixa (gancho → conceito → aprofundamento → exemplo → aplicação → checklist)
 - Revisão automática remove repetição e “frases vazias”
+- trigger deploy
 
 Pronto: seu produto deixa de ser “IA que escreve” e vira “sistema de criação publicável”.
